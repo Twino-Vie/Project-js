@@ -1,0 +1,37 @@
+
+#container{ 
+    border: 20px gray solid;
+    background-color: rgb(235, 205, 167);
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif ;
+}
+#title{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: center;
+font-size: x-large;
+font-weight:bolder;
+}
+.form-label{
+    text-decoration: double;
+    color:rgba(255, 0, 0, 0.913) ;
+    
+}
+.form-control{
+    border: 5px black solid;
+}
+#Gender{
+    text-decoration: double;
+    color:rgba(255, 0, 0, 0.913)
+}
+.form-select{
+    border: 5px black solid;
+}
+ 
+
+
+
+
+
+
+
+
